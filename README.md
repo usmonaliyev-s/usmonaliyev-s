@@ -1,4 +1,4 @@
-<div align="center" style="font size: 20px">Hi, I am Salohiddin 👋</div>  
+<div align="center" style="font size: 40px">Hi, I am Salohiddin 👋</div>  
   
 
 <br/>  
