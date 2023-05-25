@@ -2,7 +2,7 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/salohiddin-dev" target="_blank">
+<a href="https://github.com/salohiddin-usmonaliyev" target="_blank">
 <img src=https://img.shields.io/badge/github-%23000000.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://t.me/salohiddindev_blog" target="_blank">
@@ -21,7 +21,7 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=salohiddin-dev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=salohiddin-usmonaliyev&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 
 <br/>  
 
