@@ -20,7 +20,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=salohiddinusmonaliyev&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 </div>
 
-- 🔭 I’m currently working on [ZEDPOS](https://zedpos.pythonanywhere.com/)
+- 🔭 I’m currently working on [ISLOMBOT](https://github.com/salohiddinusmonaliyev/islom-bot)
 
 - 👨‍💻 All of my projects are available at [https://github.com/salohiddinusmonaliyev](https://github.com/salohiddinusmonaliyev)
 
