@@ -60,10 +60,11 @@
 </td></tr></table>  
 
 <br/>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmonaliyev-uz" alt="usmonaliyev-uz" /></a> </p>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=usmonaliyev-uz&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmonaliyev-uz&show_icons=true&locale=en" alt="usmonaliyev-uz" />
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmonaliyev-uz&" alt="usmonaliyev-uz" />
 <br/>  
 
 
