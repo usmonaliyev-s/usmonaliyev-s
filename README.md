@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Salohiddin</div>  
   
 
-- 🔭 I’m currently working on [My Portfolio](https://github.com/usmonaliyev-uz/portfolio)  
+- 🔭 I’m currently working on [My Portfolio](https://github.com/usmonaliyev-s/portfolio)  
   
 
 - 🌱 I’m currently learning Data Science, ML and AI  
@@ -11,7 +11,7 @@
   
 <br/>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/usmonaliyev-uz/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/usmonaliyev-s/count.svg?"  />
 </div>
 <br/>  
 
@@ -60,17 +60,17 @@
 </td></tr></table>  
 
 <br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmonaliyev-uz" alt="usmonaliyev-uz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmonaliyev-s" alt="usmonaliyev-s" /></a> </p>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmonaliyev-uz&show_icons=true&locale=en" alt="usmonaliyev-uz" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmonaliyev-s&show_icons=true&locale=en" alt="usmonaliyev-s" />
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmonaliyev-uz&" alt="usmonaliyev-uz" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usmonaliyev-s&" alt="usmonaliyev-s" />
 <br/>  
 
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/usmonaliyev-uz" target="_blank">
+<a href="https://github.com/usmonaliyev-s" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/salohiddinusmonaliyev" target="_blank">
