@@ -1,7 +1,7 @@
 # <div align="center">Hi 👋, I'm Salohiddin</div>  
   
 
-- 🔭 I’m currently working on [Attendace Tracker](https://github.com/usmonaliyev-s/attendance-tracker)  
+- 🔭 I’m currently working on [ZEDTRACK](https://github.com/usmonaliyev-s/zedtrack)  
   
 
 - 🌱 I’m currently learning Data Science, ML and AI  
