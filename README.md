@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Science, ML and AI  
   
 
-- 📫 How to reach me usmonaliyevsalohiddin@outlook.com  
+- 📫 How to reach me admin@usmonaliyev.uz  
   
 <br/>
 <div align="center">
