@@ -59,12 +59,15 @@
 
 </td></tr></table>  
 
-<br/>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=usmonaliyev-s" alt="usmonaliyev-s" /></a> </p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=usmonaliyev-s&show_icons=true&locale=en" alt="usmonaliyev-s" />
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=usmonaliyev-s&hide_total_contributions=false" alt="GitHub Streak" /></a>
-<br/>  
-
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=usmonaliyev-s&margin-w=10" alt="GitHub Trophies" />
+  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=usmonaliyev-s&show_icons=true&locale=en" alt="GitHub Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=usmonaliyev-s&hide_total_contributions=false" alt="GitHub Streak" />
+  </a>
+</p>
 
 ## Connect with me  
 <div align="center">
