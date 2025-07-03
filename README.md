@@ -64,9 +64,6 @@
     <img src="https://github-profile-trophy.vercel.app/?username=usmonaliyev-s&margin-w=10" alt="GitHub Trophies" />
   </a>
   <img src="https://github-readme-stats.vercel.app/api?username=usmonaliyev-s&show_icons=true&locale=en" alt="GitHub Stats" />
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=usmonaliyev-s" alt="GitHub Streak" />
-  </a>
 </p>
 
 ## Connect with me  
