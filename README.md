@@ -8,13 +8,6 @@
   
 
 - 📫 How to reach me admin@usmonaliyev.uz  
-  
-<br/>
-<div align="center">
-  <a href="https://u8views.com/github/usmonaliyev-s"><img src="https://u8views.com/api/v1/github/profiles/108422142/views/day-week-month-total-count.svg"></a>
-</div>
-<br/>  
-
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
@@ -79,5 +72,9 @@
 </a>  
 </div>  
   
-
+<hr>
 <br/> 
+<div align="center">
+  <a href="https://u8views.com/github/usmonaliyev-s"><img src="https://u8views.com/api/v1/github/profiles/108422142/views/day-week-month-total-count.svg"></a>
+</div>
+<br/>  
