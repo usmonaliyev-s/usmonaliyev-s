@@ -10,9 +10,7 @@
 - 📫 How to reach me admin@usmonaliyev.uz  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
+<table align="center"><tr><td valign="top" width="33%">
 
 ### Frontend  
 <div align="center">  
@@ -22,8 +20,6 @@
 </div>
 
 </td><td valign="top" width="33%">
-
-
 
 ### Backend  
 <div align="center">
@@ -46,6 +42,7 @@
 <!-- <a href="https://pytorch.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/pytorch-icon.svg" alt="pytorch" height="50" /></a>   -->
 <a href="https://opencv.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/opencv-icon.svg" alt="OpenCV" height="50" /></a>  
 </div>
+
 
 </td></tr></table>  
 
