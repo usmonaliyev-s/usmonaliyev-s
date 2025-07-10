@@ -11,7 +11,7 @@
   
 <br/>
 <div align="center">
-  <img src="https://profile-counter.glitch.me/usmonaliyev-s/count.svg?"  />
+  <a href="https://u8views.com/github/usmonaliyev-s"><img src="https://u8views.com/api/v1/github/profiles/108422142/views/day-week-month-total-count.svg"></a>
 </div>
 <br/>  
 
