@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning Data Science, ML and AI  
   
 
-- 📫 How to reach me admin@usmonaliyev.uz  
+- 📫 How to reach me usmonaliyev_s@icloud.com
 
 ## My Skill Set  
 <table align="center"><tr><td valign="top" width="33%">
